@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=100&section=header" />
 
 ### Hi, I'm Hyeon-uk, Choo 👋
-I’m currently learning JavaScript and React to be a web front-end developer.
+I’m currently learning TypeScript, JavaScript and React to be a web front-end developer.
 
 ### Tech Stacks are as follows 📚.
 
